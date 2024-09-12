@@ -2,7 +2,7 @@
 
 ## Quem sou eu?
 
-**Desenvolvedora Fullstack**, **apaixonada** por tecnologia e **viciada** em descobrir como as coisas funcionam. 
+**Futura desenvolvedora Fullstack**, sou **viciada** em descobrir como as coisas funcionam. 
 
 Me dedico a trilhar meu caminho na tecnologia com aprendizado constante e me realizando como profissional. 
 
